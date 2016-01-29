@@ -1,0 +1,5 @@
+Book_ID, Category_ID
+1, History
+2, Novel
+3, Poetry
+4, Science
